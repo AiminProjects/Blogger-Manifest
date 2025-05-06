@@ -5,5 +5,31 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff4444",
-  "description": "Platform proyek konten kreatif seputar multimedia, gaya hidup, dan dakwah yang inspiratif, edukatif, dan menghibur!"
+  "description": "Platform proyek konten kreatif seputar multimedia, gaya hidup, dan dakwah yang inspiratif, edukatif, dan menghibur!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPf8Zolhrq8mQmfVPuboM2A9tU2or91Fzr-X9Rd_plXEQqmGv7NdEc9tN5wefAcE_Ci4fhpXAUsrySJ8jDUl-lPK3nT7Vm5iE4Gsy1I63C5QcodsIeSbl9Qkgl_PTnMl3rCDlrNEKMO1B3QjoH0Hi5hwqI1x7llXTR0noPGqXYw0EMKQsSqj4G6K0k2ED/s512/maskable%20icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPf8Zolhrq8mQmfVPuboM2A9tU2or91Fzr-X9Rd_plXEQqmGv7NdEc9tN5wefAcE_Ci4fhpXAUsrySJ8jDUl-lPK3nT7Vm5iE4Gsy1I63C5QcodsIeSbl9Qkgl_PTnMl3rCDlrNEKMO1B3QjoH0Hi5hwqI1x7llXTR0noPGqXYw0EMKQsSqj4G6K0k2ED/s192/maskable%20icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s512/logo%20fit%20transparent.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s192/logo%20fit%20transparent.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }

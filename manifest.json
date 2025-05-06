@@ -11,11 +11,25 @@
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAHS-8wewKxYiwpP2TtRERuuG7AMlM-YqbLAyXR5E0scL2zKuzKJpebjtG6RTF-XleOSFLBvJG_ej3Vq3PkN0p9iH96X1K4KaX0n7x9LT_p1wYi7AG1DoYmCl9JfD5-nNYWtXEu82ZEjSEJrURZESpSsAGJf0OY2GOLhL9U9fytNjX_5-_-2WnkgXgdkK/s192/favicon%20big.png",
       "sizes": "192x192",
       "type": "image/png"
+      "purpose": "maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAHS-8wewKxYiwpP2TtRERuuG7AMlM-YqbLAyXR5E0scL2zKuzKJpebjtG6RTF-XleOSFLBvJG_ej3Vq3PkN0p9iH96X1K4KaX0n7x9LT_p1wYi7AG1DoYmCl9JfD5-nNYWtXEu82ZEjSEJrURZESpSsAGJf0OY2GOLhL9U9fytNjX_5-_-2WnkgXgdkK/s512/favicon%20big.png",
       "sizes": "512x512",
       "type": "image/png"
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s192/logo%20fit%20transparent.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s512/logo%20fit%20transparent.png",
+      "sizes": "512x512",
+      "type": "image/png"
+      "purpose": "any"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Aimin' Projects",
   "short_name": "Aimin' Projects",
-  "start_url": "/",
+  "start_url": "https://www.aiminprojects.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff4444",

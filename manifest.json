@@ -8,14 +8,14 @@
   "description": "Platform proyek konten kreatif seputar multimedia, gaya hidup, dan dakwah yang inspiratif, edukatif, dan menghibur!",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNE86xfnT0XyAs4vEsJieJRgX7Dp6XyRs_SiwM7dIXmOwPzmUTVNiVt6km2USqnIDWA2qHcLsGeWDbDkYTQ668Pen0AhOYFeimTDkcsu_0m-uT2quuaLeMsr55D9Y51p8VU5mPe6okJ7HEGMFeNo5GY0EDQKlpH9D4m982WxOkQuwlZUrgNUyJjdQPnFr/s512/logo.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zM9geWAgsd4XjGUokBLV37MwLPhOgp98uoPgJ4ZYxPZ9R-Ia9Ioo4l_ISAT8DpEnpwmJhciWfPOnHp9ZTR6SJPCdBva40oWUTLBJVCsQPjYOac87k6HRbMX96bbSoFg3IDRetEOzM9ZQMhUVD31fD9A-7Xf68MzoV1D2d1cnaqiNGUige_nkm0ohjcgk/s512/logo%20mono.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "monochrome"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNE86xfnT0XyAs4vEsJieJRgX7Dp6XyRs_SiwM7dIXmOwPzmUTVNiVt6km2USqnIDWA2qHcLsGeWDbDkYTQ668Pen0AhOYFeimTDkcsu_0m-uT2quuaLeMsr55D9Y51p8VU5mPe6okJ7HEGMFeNo5GY0EDQKlpH9D4m982WxOkQuwlZUrgNUyJjdQPnFr/s192/logo.png",
-      "sizes": "192x192",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNE86xfnT0XyAs4vEsJieJRgX7Dp6XyRs_SiwM7dIXmOwPzmUTVNiVt6km2USqnIDWA2qHcLsGeWDbDkYTQ668Pen0AhOYFeimTDkcsu_0m-uT2quuaLeMsr55D9Y51p8VU5mPe6okJ7HEGMFeNo5GY0EDQKlpH9D4m982WxOkQuwlZUrgNUyJjdQPnFr/s512/logo.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
@@ -26,22 +26,22 @@
       "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s192/logo%20fit%20transparent.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zM9geWAgsd4XjGUokBLV37MwLPhOgp98uoPgJ4ZYxPZ9R-Ia9Ioo4l_ISAT8DpEnpwmJhciWfPOnHp9ZTR6SJPCdBva40oWUTLBJVCsQPjYOac87k6HRbMX96bbSoFg3IDRetEOzM9ZQMhUVD31fD9A-7Xf68MzoV1D2d1cnaqiNGUige_nkm0ohjcgk/s512/logo%20mono.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "monochrome"
-    },
-    {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zM9geWAgsd4XjGUokBLV37MwLPhOgp98uoPgJ4ZYxPZ9R-Ia9Ioo4l_ISAT8DpEnpwmJhciWfPOnHp9ZTR6SJPCdBva40oWUTLBJVCsQPjYOac87k6HRbMX96bbSoFg3IDRetEOzM9ZQMhUVD31fD9A-7Xf68MzoV1D2d1cnaqiNGUige_nkm0ohjcgk/s192/logo%20mono.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "monochrome"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNE86xfnT0XyAs4vEsJieJRgX7Dp6XyRs_SiwM7dIXmOwPzmUTVNiVt6km2USqnIDWA2qHcLsGeWDbDkYTQ668Pen0AhOYFeimTDkcsu_0m-uT2quuaLeMsr55D9Y51p8VU5mPe6okJ7HEGMFeNo5GY0EDQKlpH9D4m982WxOkQuwlZUrgNUyJjdQPnFr/s192/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0Fu0TMMVn4J_4BgvpooZmEtjeLgegGfB1l2bnndcd_uspoobdmOrMvB_RUCui9dhUgFmCDpqSPWfaKouP2Q36AGmhKQcwvghY20DZtvSBeI3lQ5AvYJ5iwELWHO26xusCLfeD0aDgmcnokPQlmBxScUbcC7lMYVMi80ohusP8_6Kiao/s192/logo%20fit%20transparent.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
